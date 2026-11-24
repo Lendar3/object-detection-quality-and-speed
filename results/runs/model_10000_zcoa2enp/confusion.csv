@@ -1,0 +1,43 @@
+split,model,size,confidence,actual,predicted,count
+all,yolo11n,640,0.15,background,bus,942
+all,yolo11n,640,0.15,background,car,28175
+all,yolo11n,640,0.15,background,traffic light,6259
+all,yolo11n,640,0.15,background,truck,2193
+all,yolo11n,640,0.15,bus,background,761
+all,yolo11n,640,0.15,bus,bus,617
+all,yolo11n,640,0.15,bus,car,198
+all,yolo11n,640,0.15,bus,truck,146
+all,yolo11n,640,0.15,car,background,55533
+all,yolo11n,640,0.15,car,bus,183
+all,yolo11n,640,0.15,car,car,45755
+all,yolo11n,640,0.15,car,traffic light,5
+all,yolo11n,640,0.15,car,truck,580
+all,yolo11n,640,0.15,traffic light,background,22936
+all,yolo11n,640,0.15,traffic light,car,8
+all,yolo11n,640,0.15,traffic light,traffic light,3352
+all,yolo11n,640,0.15,truck,background,2010
+all,yolo11n,640,0.15,truck,bus,155
+all,yolo11n,640,0.15,truck,car,681
+all,yolo11n,640,0.15,truck,traffic light,1
+all,yolo11n,640,0.15,truck,truck,1368
+all,yolo11s,640,0.15,background,bus,627
+all,yolo11s,640,0.15,background,car,26178
+all,yolo11s,640,0.15,background,traffic light,9008
+all,yolo11s,640,0.15,background,truck,2386
+all,yolo11s,640,0.15,bus,background,651
+all,yolo11s,640,0.15,bus,bus,713
+all,yolo11s,640,0.15,bus,car,171
+all,yolo11s,640,0.15,bus,truck,187
+all,yolo11s,640,0.15,car,background,48183
+all,yolo11s,640,0.15,car,bus,191
+all,yolo11s,640,0.15,car,car,52780
+all,yolo11s,640,0.15,car,traffic light,5
+all,yolo11s,640,0.15,car,truck,897
+all,yolo11s,640,0.15,traffic light,background,20721
+all,yolo11s,640,0.15,traffic light,car,7
+all,yolo11s,640,0.15,traffic light,traffic light,5568
+all,yolo11s,640,0.15,truck,background,1644
+all,yolo11s,640,0.15,truck,bus,112
+all,yolo11s,640,0.15,truck,car,559
+all,yolo11s,640,0.15,truck,traffic light,3
+all,yolo11s,640,0.15,truck,truck,1897

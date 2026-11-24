@@ -1,0 +1,60 @@
+split,model,size,confidence,actual,predicted,count
+all,yolo11n,320,0.25,background,bus,350
+all,yolo11n,320,0.25,background,car,6688
+all,yolo11n,320,0.25,background,traffic light,828
+all,yolo11n,320,0.25,background,truck,827
+all,yolo11n,320,0.25,bus,background,1234
+all,yolo11n,320,0.25,bus,bus,307
+all,yolo11n,320,0.25,bus,car,112
+all,yolo11n,320,0.25,bus,truck,69
+all,yolo11n,320,0.25,car,background,79431
+all,yolo11n,320,0.25,car,bus,193
+all,yolo11n,320,0.25,car,car,22051
+all,yolo11n,320,0.25,car,truck,381
+all,yolo11n,320,0.25,traffic light,background,25940
+all,yolo11n,320,0.25,traffic light,car,4
+all,yolo11n,320,0.25,traffic light,traffic light,352
+all,yolo11n,320,0.25,truck,background,3138
+all,yolo11n,320,0.25,truck,bus,90
+all,yolo11n,320,0.25,truck,car,415
+all,yolo11n,320,0.25,truck,traffic light,1
+all,yolo11n,320,0.25,truck,truck,571
+all,yolo11n,480,0.25,background,bus,444
+all,yolo11n,480,0.25,background,car,9675
+all,yolo11n,480,0.25,background,traffic light,1785
+all,yolo11n,480,0.25,background,truck,1166
+all,yolo11n,480,0.25,bus,background,1023
+all,yolo11n,480,0.25,bus,bus,464
+all,yolo11n,480,0.25,bus,car,129
+all,yolo11n,480,0.25,bus,truck,106
+all,yolo11n,480,0.25,car,background,69253
+all,yolo11n,480,0.25,car,bus,195
+all,yolo11n,480,0.25,car,car,32125
+all,yolo11n,480,0.25,car,traffic light,1
+all,yolo11n,480,0.25,car,truck,482
+all,yolo11n,480,0.25,traffic light,background,25044
+all,yolo11n,480,0.25,traffic light,car,5
+all,yolo11n,480,0.25,traffic light,traffic light,1247
+all,yolo11n,480,0.25,truck,background,2625
+all,yolo11n,480,0.25,truck,bus,118
+all,yolo11n,480,0.25,truck,car,514
+all,yolo11n,480,0.25,truck,truck,958
+all,yolo11n,640,0.25,background,bus,468
+all,yolo11n,640,0.25,background,car,10779
+all,yolo11n,640,0.25,background,traffic light,2374
+all,yolo11n,640,0.25,background,truck,1292
+all,yolo11n,640,0.25,bus,background,918
+all,yolo11n,640,0.25,bus,bus,554
+all,yolo11n,640,0.25,bus,car,122
+all,yolo11n,640,0.25,bus,truck,128
+all,yolo11n,640,0.25,car,background,62502
+all,yolo11n,640,0.25,car,bus,200
+all,yolo11n,640,0.25,car,car,38756
+all,yolo11n,640,0.25,car,truck,598
+all,yolo11n,640,0.25,traffic light,background,24058
+all,yolo11n,640,0.25,traffic light,car,7
+all,yolo11n,640,0.25,traffic light,traffic light,2231
+all,yolo11n,640,0.25,truck,background,2375
+all,yolo11n,640,0.25,truck,bus,143
+all,yolo11n,640,0.25,truck,car,537
+all,yolo11n,640,0.25,truck,truck,1160

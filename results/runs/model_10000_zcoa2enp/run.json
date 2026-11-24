@@ -1,0 +1,43 @@
+{
+  "dataset": "BDD100K 2018 annotations",
+  "mode": "model",
+  "comparison_split": "all",
+  "classes": [
+    "car",
+    "truck",
+    "bus",
+    "traffic light"
+  ],
+  "device": "mps",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "cpu_threads": 4,
+  "seed": 12,
+  "comparison_settings": [
+    {
+      "model": "yolo11n",
+      "size": 640,
+      "confidence": 0.15
+    },
+    {
+      "model": "yolo11s",
+      "size": 640,
+      "confidence": 0.15
+    }
+  ],
+  "highest_quality": {
+    "model": "yolo11s",
+    "size": 640,
+    "confidence": 0.15
+  },
+  "fastest": {
+    "model": "yolo11s",
+    "size": 640,
+    "confidence": 0.15
+  },
+  "fastest_meets_budget": true,
+  "nms_iou": 0.7,
+  "matching_iou": 0.5,
+  "warmup_frames": 5,
+  "frame_budget_ms": 33.333333333333336,
+  "comparison_images": 10000
+}
